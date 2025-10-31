@@ -1,0 +1,7 @@
+numpy
+tqdm
+requests
+openai
+# Optional (improves embedding quality; comment out if fully offline)
+sentence-transformers
+chromadb

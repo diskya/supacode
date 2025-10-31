@@ -1,0 +1,6 @@
+{
+  "repo": "/home/disky/codex",
+  "embedder": "sentence-transformers",
+  "dim": 384,
+  "num_chunks": 61
+}
